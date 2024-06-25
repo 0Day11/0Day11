@@ -1,5 +1,6 @@
 # 💫 About Me:
-   I’m a passionate and dedicated Bsc Computer Science student with strong interest in networking and infrastructure management.
+ ## Hi there, I'm Jenish Paudel 👋
+   I’m a passionate and dedicated Bsc Computer Science student at Middlesex University with strong interest in networking and infrastructure management.
    Adept at problem solving and critical thinking with a solid foundation of computer science principles.
    Currently working on understanding ethics of cybersecurity. I'm looking to collaborate on building on sports betting website with machine learning.
 
@@ -11,8 +12,5 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=0Day11&theme=default&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=0Day11&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### 😂 Random Dev Meme
-<img src='https://memer-new.vercel.app/' style="height: 400px;"/>
-
+### 🕵️ "There are two types of companies: those that have been hacked, and those who don't know they have been hacked." - John Chambers
 ---
-[![](https://visitcount.itsvg.in/api?id=0Day11&icon=0&color=0)](https://visitcount.itsvg.in)
