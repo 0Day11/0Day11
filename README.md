@@ -2,7 +2,7 @@
  ## Hi there, I'm Jenish Paudel 👋
    I’m a passionate and dedicated Bsc Computer Science student at Middlesex University with strong interest in networking and infrastructure management.
    Adept at problem solving and critical thinking with a solid foundation of computer science principles.
-   Currently working on understanding ethics of cybersecurity. I'm looking to collaborate on building on sports betting website with machine learning.
+   Currently working on understanding ethics of cybersecurity.
 
 
 # 💻 Tech Stack:
